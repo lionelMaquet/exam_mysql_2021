@@ -1,0 +1,33 @@
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\2.8 Application MySql.exe
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\2.8 Application MySql.deps.json
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\2.8 Application MySql.runtimeconfig.json
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\2.8 Application MySql.runtimeconfig.dev.json
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\2.8 Application MySql.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\2.8 Application MySql.pdb
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\obj\Debug\netcoreapp3.1\2.8 Application MySql.csprojAssemblyReference.cache
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\obj\Debug\netcoreapp3.1\2.8 Application MySql.AssemblyInfoInputs.cache
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\obj\Debug\netcoreapp3.1\2.8 Application MySql.AssemblyInfo.cs
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\obj\Debug\netcoreapp3.1\2.8 Application MySql.csproj.CoreCompileInputs.cache
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\obj\Debug\netcoreapp3.1\2.8 Application MySql.csproj.CopyComplete
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\obj\Debug\netcoreapp3.1\2.8 Application MySql.dll
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\obj\Debug\netcoreapp3.1\2.8 Application MySql.pdb
+C:\Users\lione\Desktop\examen mai 2021\2.8 Application MySql\obj\Debug\netcoreapp3.1\2.8 Application MySql.genruntimeconfig.cache
